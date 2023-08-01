@@ -1,7 +1,7 @@
 # WinShell_Send2_Move2
 Adapted behaviour scheme for the "Send To" context menu extension handler native to Windows
 
-Move to can be now be the default action.
+Move to can be now be the default action. negating the need to hold the Shift key.
 
 Set up a shortcut in you profile send to folder
 
