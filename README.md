@@ -11,3 +11,4 @@ now it will appear in the send to menu and enjoy.
 
 ![image](https://github.com/wolfman616/WinShell_Send2_Move2/assets/62726599/dd518c91-0a83-4570-bb9b-37a0ee00bcf7)
 
+Doesnt seem to like symbolic links or junctions, so create teh shortcut to a real folder directly.
